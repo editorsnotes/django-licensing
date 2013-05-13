@@ -1,0 +1,39 @@
+msgid "All rights reserved"
+msgstr "모든 권리 보유"
+msgid "http://en.wikipedia.org/wiki/Copyright"
+msgstr "http://ko.wikipedia.org/wiki/%EC%A0%80%EC%9E%91%EA%B6%8C"
+
+msgid "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported"
+msgstr "Creative Commons 저작자표시-비영리-변경금지 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-nd/3.0/deed.ko"
+
+msgid "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported"
+msgstr "Creative Commons 저작자표시-비영리-동일조건변경허락 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-sa/3.0/deed.ko"
+
+msgid "Creative Commons Attribution-NoDerivs 3.0 Unported"
+msgstr "Creative Commons 저작자표시-변경금지 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nd/3.0/deed.ko"
+
+msgid "Creative Commons Attribution-NonCommercial 3.0 Unported"
+msgstr "Creative Commons 저작자표시-비영리 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-nc/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc/3.0/deed.ko"
+
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported"
+msgstr "Creative Commons 저작자표시-동일조건변경허락 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-sa/3.0/deed.ko"
+
+msgid "Creative Commons Attribution 3.0 Unported"
+msgstr "Creative Commons 저작자표시 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by/3.0/"
+msgstr "http://creativecommons.org/licenses/by/3.0/deed.ko"
+
+msgid "Public Domain"
+msgstr "퍼블릭 도메인"
+msgid "http://creativecommons.org/publicdomain/zero/1.0/"
+msgstr "http://creativecommons.org/publicdomain/zero/1.0/deed.ko"

@@ -1,0 +1,39 @@
+msgid "All rights reserved"
+msgstr "Todos os direitos reservados"
+msgid "http://en.wikipedia.org/wiki/Copyright"
+msgstr "http://pt.wikipedia.org/wiki/Direito_autoral"
+
+msgid "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported"
+msgstr "Creative Commons Atribuição-NãoComercial-SemDerivados 3.0 Não Adaptada"
+msgid "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-nd/3.0/deed.pt_BR"
+
+msgid "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported"
+msgstr "Creative Commons Atribuição-NãoComercial-CompartilhaIgual 3.0 Não Adaptada"
+msgid "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-sa/3.0/deed.pt_BR"
+
+msgid "Creative Commons Attribution-NoDerivs 3.0 Unported"
+msgstr "Creative Commons Atribuição-SemDerivados 3.0 Não Adaptada"
+msgid "http://creativecommons.org/licenses/by-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR"
+
+msgid "Creative Commons Attribution-NonCommercial 3.0 Unported"
+msgstr "Creative Commons Atribuição-NãoComercial 3.0 Não Adaptada"
+msgid "http://creativecommons.org/licenses/by-nc/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc/3.0/deed.pt_BR"
+
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported"
+msgstr "Creative Commons Atribuição-CompartilhaIgual 3.0 Não Adaptada"
+msgid "http://creativecommons.org/licenses/by-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR"
+
+msgid "Creative Commons Attribution 3.0 Unported"
+msgstr "Creative Commons Atribuição 3.0 Não Adaptada"
+msgid "http://creativecommons.org/licenses/by/3.0/"
+msgstr "http://creativecommons.org/licenses/by/3.0/deed.pt_BR"
+
+msgid "Public Domain"
+msgstr "Domínio Público"
+msgid "http://creativecommons.org/publicdomain/zero/1.0/"
+msgstr "http://creativecommons.org/publicdomain/zero/1.0/deed.pt_BR"

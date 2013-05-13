@@ -1,0 +1,39 @@
+msgid "All rights reserved"
+msgstr "All rights reserved"
+msgid "http://en.wikipedia.org/wiki/Copyright"
+msgstr "http://en.wikipedia.org/wiki/Copyright"
+
+msgid "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported"
+msgstr "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en"
+
+msgid "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported"
+msgstr "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en"
+
+msgid "Creative Commons Attribution-NoDerivs 3.0 Unported"
+msgstr "Creative Commons Attribution-NoDerivs 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nd/3.0/deed.en"
+
+msgid "Creative Commons Attribution-NonCommercial 3.0 Unported"
+msgstr "Creative Commons Attribution-NonCommercial 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-nc/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc/3.0/deed.en"
+
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported"
+msgstr "Creative Commons Attribution-ShareAlike 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-sa/3.0/deed.en"
+
+msgid "Creative Commons Attribution 3.0 Unported"
+msgstr "Creative Commons Attribution 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by/3.0/"
+msgstr "http://creativecommons.org/licenses/by/3.0/deed.en"
+
+msgid "Public Domain"
+msgstr "Public Domain"
+msgid "http://creativecommons.org/publicdomain/zero/1.0/"
+msgstr "http://creativecommons.org/publicdomain/zero/1.0/deed.en"

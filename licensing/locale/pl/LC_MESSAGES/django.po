@@ -1,0 +1,39 @@
+msgid "All rights reserved"
+msgstr "Wszystkie prawa zastrzeżone"
+msgid "http://en.wikipedia.org/wiki/Copyright"
+msgstr "http://pl.wikipedia.org/wiki/Prawo_autorskie"
+
+msgid "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported"
+msgstr "Creative Commons Uznanie autorstwa-Użycie niekomercyjne-Bez utworów zależnych 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-nd/3.0/deed.pl"
+
+msgid "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported"
+msgstr "Creative Commons Uznanie autorstwa-Użycie niekomercyjne-Na tych samych warunkach 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-sa/3.0/deed.pl"
+
+msgid "Creative Commons Attribution-NoDerivs 3.0 Unported"
+msgstr "Creative Commons Uznanie autorstwa-Bez utworów zależnych 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nd/3.0/deed.pl"
+
+msgid "Creative Commons Attribution-NonCommercial 3.0 Unported"
+msgstr "Creative Commons Uznanie autorstwa-Użycie niekomercyjne 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-nc/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc/3.0/deed.pl"
+
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported"
+msgstr "Creative Commons Uznanie autorstwa-Na tych samych warunkach 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-sa/3.0/deed.pl"
+
+msgid "Creative Commons Attribution 3.0 Unported"
+msgstr "Creative Commons Uznanie autorstwa 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by/3.0/"
+msgstr "http://creativecommons.org/licenses/by/3.0/deed.pl"
+
+msgid "Public Domain"
+msgstr "Domena publiczna"
+msgid "http://creativecommons.org/publicdomain/zero/1.0/"
+msgstr "http://creativecommons.org/publicdomain/zero/1.0/deed.pl"

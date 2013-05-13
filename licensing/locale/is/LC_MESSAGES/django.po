@@ -1,0 +1,39 @@
+msgid "All rights reserved"
+msgstr "Allur réttur áskilinn"
+msgid "http://en.wikipedia.org/wiki/Copyright"
+msgstr "http://is.wikipedia.org/wiki/H%C3%B6fundar%C3%A9ttur"
+
+msgid "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported"
+msgstr "Creative Commons Tilvísun-EkkiÁgóðaskyni-EnginAfleidd 3.0 Óstaðfært"
+msgid "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-nd/3.0/deed.is"
+
+msgid "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported"
+msgstr "Creative Commons Tilvísun-EkkiÁgóðaskyni-DeilaEins 3.0 Óstaðfært"
+msgid "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-sa/3.0/deed.is"
+
+msgid "Creative Commons Attribution-NoDerivs 3.0 Unported"
+msgstr "Creative Commons Tilvísun-EnginAfleidd 3.0 Óstaðfært"
+msgid "http://creativecommons.org/licenses/by-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nd/3.0/deed.is"
+
+msgid "Creative Commons Attribution-NonCommercial 3.0 Unported"
+msgstr "Creative Commons Tilvísun-EkkiÁgóðaskyni 3.0 Óstaðfært"
+msgid "http://creativecommons.org/licenses/by-nc/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc/3.0/deed.is"
+
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported"
+msgstr "Creative Commons Tilvísun-DeilaEins 3.0 Óstaðfært"
+msgid "http://creativecommons.org/licenses/by-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-sa/3.0/deed.is"
+
+msgid "Creative Commons Attribution 3.0 Unported"
+msgstr "Creative Commons Vísun til höfundar 3.0 Óstaðfært"
+msgid "http://creativecommons.org/licenses/by/3.0/"
+msgstr "http://creativecommons.org/licenses/by/3.0/deed.is"
+
+msgid "Public Domain"
+msgstr "Almenningur"
+msgid "http://creativecommons.org/publicdomain/zero/1.0/"
+msgstr "http://creativecommons.org/publicdomain/zero/1.0/deed.is"

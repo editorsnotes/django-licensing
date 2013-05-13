@@ -1,0 +1,65 @@
+[ { "model" : "licensing.license"
+  , "pk" : 1
+  , "fields" : 
+    { "name" : "All rights reserved"
+    , "symbols" : "\u00A9"
+    , "url" : "http://en.wikipedia.org/wiki/Copyright"
+    }
+  }
+, { "model" : "licensing.license"
+  , "pk" : 2
+  , "fields" : 
+    { "name" : "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported"
+    , "symbols" : "\uF080\uF081\uF082\uF086"
+    , "url" : "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    }
+  }
+, { "model" : "licensing.license"
+  , "pk" : 3
+  , "fields" : 
+    { "name" : "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported"
+    , "symbols" : "\uF080\uF081\uF082\uF085"
+    , "url" : "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    }
+  }
+, { "model" : "licensing.license"
+  , "pk" : 4
+  , "fields" : 
+    { "name" : "Creative Commons Attribution-NoDerivs 3.0 Unported"
+    , "symbols" : "\uF080\uF081\uF086"
+    , "url" : "http://creativecommons.org/licenses/by-nd/3.0/"
+    }
+  }
+, { "model" : "licensing.license"
+  , "pk" : 5
+  , "fields" : 
+    { "name" : "Creative Commons Attribution-NonCommercial 3.0 Unported"
+    , "symbols" : "\uF080\uF081\uF082"
+    , "url" : "http://creativecommons.org/licenses/by-nc/3.0/"
+    }
+  }
+, { "model" : "licensing.license"
+  , "pk" : 6
+  , "fields" : 
+    { "name" : "Creative Commons Attribution-ShareAlike 3.0 Unported"
+    , "symbols" : "\uF080\uF081\uF085"
+    , "url" : "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  }
+, { "model" : "licensing.license"
+  , "pk" : 7
+  , "fields" : 
+    { "name" : "Creative Commons Attribution 3.0 Unported"
+    , "symbols" : "\uF080\uF081"
+    , "url" : "http://creativecommons.org/licenses/by/3.0/"
+    }
+  }
+, { "model" : "licensing.license"
+  , "pk" : 8
+  , "fields" : 
+    { "name" : "Public Domain"
+    , "symbols" : "\uF088"
+    , "url" : "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  }
+]

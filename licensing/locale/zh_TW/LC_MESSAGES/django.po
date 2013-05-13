@@ -1,0 +1,39 @@
+msgid "All rights reserved"
+msgstr "保留一切權利"
+msgid "http://en.wikipedia.org/wiki/Copyright"
+msgstr "http://zh.wikipedia.org/wiki/%E8%91%97%E4%BD%9C%E6%AC%8A"
+
+msgid "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported"
+msgstr "Creative Commons 姓名標示-非商業性-禁止改作 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh_TW"
+
+msgid "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported"
+msgstr "Creative Commons 姓名標示-非商業性-相同方式分享 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh_TW"
+
+msgid "Creative Commons Attribution-NoDerivs 3.0 Unported"
+msgstr "Creative Commons 姓名標示-禁止改作 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nd/3.0/deed.zh_TW"
+
+msgid "Creative Commons Attribution-NonCommercial 3.0 Unported"
+msgstr "Creative Commons 姓名標示-非商業性 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-nc/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc/3.0/deed.zh_TW"
+
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported"
+msgstr "Creative Commons 姓名標示-相同方式分享 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW"
+
+msgid "Creative Commons Attribution 3.0 Unported"
+msgstr "Creative Commons 姓名標示 3.0 Unported"
+msgid "http://creativecommons.org/licenses/by/3.0/"
+msgstr "http://creativecommons.org/licenses/by/3.0/deed.zh_TW"
+
+msgid "Public Domain"
+msgstr "公眾領域"
+msgid "http://creativecommons.org/publicdomain/zero/1.0/"
+msgstr "http://creativecommons.org/publicdomain/zero/1.0/deed.zh_TW"

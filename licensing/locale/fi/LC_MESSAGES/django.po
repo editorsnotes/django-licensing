@@ -1,0 +1,39 @@
+msgid "All rights reserved"
+msgstr "Kaikki oikeudet pidätetään"
+msgid "http://en.wikipedia.org/wiki/Copyright"
+msgstr "http://fi.wikipedia.org/wiki/Tekij%C3%A4noikeus"
+
+msgid "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported"
+msgstr "Creative Commons Nimeä-Ei muutoksia-Epäkaupallinen 3.0 Muokkaamaton"
+msgid "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fi"
+
+msgid "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported"
+msgstr "Creative Commons Nimeä-Epäkaupallinen-JaaSamoin 3.0 Muokkaamaton"
+msgid "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-sa/3.0/deed.fi"
+
+msgid "Creative Commons Attribution-NoDerivs 3.0 Unported"
+msgstr "Creative Commons Nimeä-Ei muutoksia 3.0 Muokkaamaton"
+msgid "http://creativecommons.org/licenses/by-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nd/3.0/deed.fi"
+
+msgid "Creative Commons Attribution-NonCommercial 3.0 Unported"
+msgstr "Creative Commons Nimeä-Epäkaupallinen 3.0 Muokkaamaton"
+msgid "http://creativecommons.org/licenses/by-nc/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc/3.0/deed.fi"
+
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported"
+msgstr "Creative Commons Nimeä-JaaSamoin 3.0 Muokkaamaton"
+msgid "http://creativecommons.org/licenses/by-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-sa/3.0/deed.fi"
+
+msgid "Creative Commons Attribution 3.0 Unported"
+msgstr "Creative Commons Nimeä 3.0 Muokkaamaton"
+msgid "http://creativecommons.org/licenses/by/3.0/"
+msgstr "http://creativecommons.org/licenses/by/3.0/deed.fi"
+
+msgid "Public Domain"
+msgstr "Public Domainia"
+msgid "http://creativecommons.org/publicdomain/zero/1.0/"
+msgstr "http://creativecommons.org/publicdomain/zero/1.0/deed.fi"

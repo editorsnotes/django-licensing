@@ -1,0 +1,39 @@
+msgid "All rights reserved"
+msgstr "Με επιφύλαξη παντός δικαιώματος"
+msgid "http://en.wikipedia.org/wiki/Copyright"
+msgstr "http://el.wikipedia.org/wiki/%CE%A0%CE%BD%CE%B5%CF%85%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE_%CE%B9%CE%B4%CE%B9%CE%BF%CE%BA%CF%84%CE%B7%CF%83%CE%AF%CE%B1"
+
+msgid "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported"
+msgstr "Creative Commons Αναφορά Δημιουργού-Μη Εμπορική Χρήση-Όχι Παράγωγα Έργα 3.0 Μη εισαγόμενο"
+msgid "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-nd/3.0/deed.el"
+
+msgid "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported"
+msgstr "Creative Commons Αναφορά Δημιουργού - Μη Εμπορική Χρήση - Παρόμοια Διανομή 3.0 Μη εισαγόμενο"
+msgid "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-sa/3.0/deed.el"
+
+msgid "Creative Commons Attribution-NoDerivs 3.0 Unported"
+msgstr "Creative Commons Αναφορά Δημιουργού-Όχι Παράγωγα Έργα 3.0 Μη εισαγόμενο"
+msgid "http://creativecommons.org/licenses/by-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nd/3.0/deed.el"
+
+msgid "Creative Commons Attribution-NonCommercial 3.0 Unported"
+msgstr "Creative Commons Αναφορά Δημιουργού-Μη Εμπορική Χρήση 3.0 Μη εισαγόμενο"
+msgid "http://creativecommons.org/licenses/by-nc/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc/3.0/deed.el"
+
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported"
+msgstr "Creative Commons Αναφορά Δημιουργού - Παρόμοια Διανομή 3.0 Μη εισαγόμενο"
+msgid "http://creativecommons.org/licenses/by-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-sa/3.0/deed.el"
+
+msgid "Creative Commons Attribution 3.0 Unported"
+msgstr "Creative Commons Αναφορά Δημιουργού 3.0 Μη εισαγόμενο"
+msgid "http://creativecommons.org/licenses/by/3.0/"
+msgstr "http://creativecommons.org/licenses/by/3.0/deed.el"
+
+msgid "Public Domain"
+msgstr "Δημόσιος Τομέας"
+msgid "http://creativecommons.org/publicdomain/zero/1.0/"
+msgstr "http://creativecommons.org/publicdomain/zero/1.0/deed.el"

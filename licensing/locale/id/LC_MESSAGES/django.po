@@ -1,0 +1,39 @@
+msgid "All rights reserved"
+msgstr "Semua hak cipta"
+msgid "http://en.wikipedia.org/wiki/Copyright"
+msgstr "http://id.wikipedia.org/wiki/Hak_cipta"
+
+msgid "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported"
+msgstr "Creative Commons Atribusi-NonKomersial-TanpaTurunan 3.0 Tanpa Adaptasi"
+msgid "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-nd/3.0/deed.id"
+
+msgid "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported"
+msgstr "Creative Commons Atribusi-NonKomersial-BerbagiSerupa 3.0 Tanpa Adaptasi"
+msgid "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc-sa/3.0/deed.id"
+
+msgid "Creative Commons Attribution-NoDerivs 3.0 Unported"
+msgstr "Creative Commons Atribusi-TanpaTurunan 3.0 Tanpa Adaptasi"
+msgid "http://creativecommons.org/licenses/by-nd/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nd/3.0/deed.id"
+
+msgid "Creative Commons Attribution-NonCommercial 3.0 Unported"
+msgstr "Creative Commons Attribusi-NonKomersial 3.0 Tanpa Adaptasi"
+msgid "http://creativecommons.org/licenses/by-nc/3.0/"
+msgstr "http://creativecommons.org/licenses/by-nc/3.0/deed.id"
+
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported"
+msgstr "Creative Commons Atribusi-BerbagiSerupa 3.0 Tanpa Adaptasi"
+msgid "http://creativecommons.org/licenses/by-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-sa/3.0/deed.id"
+
+msgid "Creative Commons Attribution 3.0 Unported"
+msgstr "Creative Commons Atribusi 3.0 Tanpa Adaptasi"
+msgid "http://creativecommons.org/licenses/by/3.0/"
+msgstr "http://creativecommons.org/licenses/by/3.0/deed.id"
+
+msgid "Public Domain"
+msgstr "Domain Publik"
+msgid "http://creativecommons.org/publicdomain/zero/1.0/"
+msgstr "http://creativecommons.org/publicdomain/zero/1.0/deed.id"
