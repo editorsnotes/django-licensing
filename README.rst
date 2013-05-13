@@ -20,4 +20,4 @@ Quick start
           'licensing',
       )
 
-2. Run `python manage.py syncdb` to create the polls models.
+2. Run `python manage.py syncdb` to create the licensing models.
