@@ -4,7 +4,7 @@ from django.db import models
 
 class License(models.Model):
     name = models.CharField(max_length='80', unique=True)
-    symbol = models.CharField(max_length=5)
+    symbols = models.CharField(max_length=5)
     url = models.URLField(unique=True)
 
     def __unicode__(self):
