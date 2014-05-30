@@ -15,10 +15,10 @@ setup(
     description='A Django model and data for adding licensing info to data.',
     long_description=README,
     url='http://github.com/editorsnotes/django-licensing',
-    download_url='http://github.com/editorsnotes/django-licensing/tarball/0.2'
+    download_url='http://github.com/editorsnotes/django-licensing/tarball/0.2',
     author='Ryan Shaw',
     author_email='ryanshaw@unc.edu',
-    keywords = ['django', 'licenses', 'licences']
+    keywords = ['django', 'licenses', 'licences'],
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
