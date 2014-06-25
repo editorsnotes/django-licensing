@@ -8,8 +8,14 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='django-licensing',
-    version='0.2.1',
+    version='0.2.2',
     packages=['licensing'],
+    package_data={
+        'licensing': [
+            'locale/*/LC_MESSAGES/django.po', 
+            'fixtures/initial_data.json'
+        ]
+    },
     include_package_data=True,
     license='Public Domain',
     description='A Django model and data for adding licensing info to data.',
