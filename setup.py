@@ -8,20 +8,14 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='django-licensing',
-    version='0.2.3',
+    version='0.2.4',
     packages=['licensing'],
-    package_data={
-        'licensing': [
-            'locale/*/LC_MESSAGES/django.po', 
-            'fixtures/initial_data.json'
-        ]
-    },
     include_package_data=True,
     license='Public Domain',
     description='A Django model and data for adding licensing info to data.',
     long_description=README,
     url='http://github.com/editorsnotes/django-licensing',
-    download_url='http://github.com/editorsnotes/django-licensing/tarball/0.2.3',
+    download_url='http://github.com/editorsnotes/django-licensing/tarball/0.2.4',
     author='Ryan Shaw',
     author_email='ryanshaw@unc.edu',
     keywords = ['django', 'licenses', 'licences'],
