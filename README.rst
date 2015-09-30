@@ -56,3 +56,11 @@ and in order of use them you can do something like this
 .. code-block::html
 
     <i class="openwebicons">{{ whatever.license.symbols }}</i>
+
+Tests
+-----
+
+If you want to modify this app, there are available several tests that you can launch to check
+that nothing is broken::
+
+    $ python runtests.py
