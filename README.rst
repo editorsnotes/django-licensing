@@ -79,3 +79,5 @@ If you want to modify this app, there are available several tests that you can l
 that nothing is broken::
 
     $ python runtests.py
+
+It's also available a ``tox`` configuration file to test it on multiple Django versions.
