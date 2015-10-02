@@ -37,8 +37,26 @@ The model ``Whatever`` will contain a ``ForeignKey`` field named ``license``.
 
 4. Run ``python manage.py migrate`` to create the licensing models.
 
-5. Show the symbols associated with the license using the openweb font:
-at the beginning of the project CSS file you have to add the font
+5. Where is needed to show the symbol associated with the license you can use the tag ``show_license``:
+it uses the openweb font to render it; it's simple as
+
+.. code-block:: html
+
+    {% load licensing_tags %}
+
+    {% block head %}
+
+    {% licensing_style %}
+
+    {% endblock %}
+    {% block foobar %}
+        {% show_license license %}
+    {% endblock %}
+
+where ``license`` is an instance of the ``License`` model.
+
+The ``licensing_style`` tag simply renders a ``<style>`` block with all the necessary
+to use the correct font, like the code below:
 
 .. code-block:: css
 
@@ -51,11 +69,8 @@ at the beginning of the project CSS file you have to add the font
       font-style: normal;
     }
 
-and in order of use them you can do something like this
-
-.. code-block::html
-
-    <i class="openwebicons">{{ whatever.license.symbols }}</i>
+It's possible to customize the css class and template used in these tags, read the source
+code for more details.
 
 Tests
 -----
