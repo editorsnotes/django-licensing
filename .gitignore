@@ -1,4 +1,5 @@
 .Python
+.tox
 bin
 include
 lib
