@@ -1,6 +1,16 @@
+{% load static %}
 <style>
     /* http://pfefferle.github.io/openwebicons/usage/ */
-    @import url("http://weloveiconfonts.com/api/?family=openwebicons");
+    @font-face {
+      font-family: 'OpenWeb Icons';
+        src: url('{% static "licensing/font/openwebicons.eot" %}');
+        src: url('{% static "licensing/font/openwebicons.eot?#iefix" %}') format('embedded-opentype'),
+             url('{% static "licensing/font/openwebicons.woff" %}') format('woff'),
+             url('{% static "licensing/font/openwebicons.ttf" %}') format('truetype'),
+             url('{% static "licensing/font/openwebicons.svg#OpenWebIconsRegular" %}') format('svg');
+        font-weight: normal;
+        font-style: normal;
+    }
 
     /* openwebicons */
     i.{{ class }} {
