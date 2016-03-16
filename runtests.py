@@ -1,23 +1,12 @@
 #!/usr/bin/env python
-# original code from <http://stackoverflow.com/questions/3841725/how-to-launch-tests-for-django-reusable-app>
-import os, sys
-from django.conf import settings
+
+# original code from <http://stackoverflow.com/questions/3841725/>
+
+import os
+import sys
 import django
 
-
-settings.configure(DEBUG=True,
-               DATABASES={
-                    'default': {
-                        'ENGINE': 'django.db.backends.sqlite3',
-                    }
-                },
-               #ROOT_URLCONF='myapp.urls',
-               INSTALLED_APPS=('django.contrib.auth',
-                              'django.contrib.contenttypes',
-                              'django.contrib.sessions',
-                              'django.contrib.admin',
-                              'licensing',
-                              'tests',))
+os.environ['DJANGO_SETTINGS_MODULE'] = 'licensing.test_settings'
 
 try:
     # Django <= 1.8
