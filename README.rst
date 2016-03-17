@@ -10,6 +10,10 @@ The characters in the ``symbols`` fields of the provided Creative Commons
 licenses are intended to be displayed with this Creative Commons icons font:
 http://pfefferle.github.io/openwebicons/#cc-icons
 
+Supported Django versions
+-------------------------
+Licensing is tested against Django versions 1.8 and 1.9.
+
 Quick start
 -----------
 
