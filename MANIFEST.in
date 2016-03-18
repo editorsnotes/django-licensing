@@ -2,3 +2,6 @@ include LICENSE
 include README.rst
 include licensing/fixtures/initial_data.json
 include licensing/locale/*/LC_MESSAGES/django.po
+include licensing/static/licensing/font/openwebicons.*
+include licensing/templates/licensing/*.html
+recursive-include licensing *.py
