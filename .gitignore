@@ -8,3 +8,4 @@ dist
 django_licensing.egg-info
 *pyc
 *swp
+venv
